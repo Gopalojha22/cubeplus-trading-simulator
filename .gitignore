@@ -1,0 +1,18 @@
+# Sensitive files
+.env
+access_token.json
+
+# Python files
+*.pyc
+__pycache__/
+
+# Virtual environment
+venv/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
